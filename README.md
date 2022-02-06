@@ -3,7 +3,7 @@
 Excalidraw is a virtual whiteboard for sketching hand-drawn like diagrams.
 Collaborative and end-to-end encrypted.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frobikovacs%2Frailway-excalidraw&referralCode=robikovacs)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frobikovacs%2Frailway-excalidraw&envs=PORT&PORTDefault=80&referralCode=robikovacs)
 
 ## ✨ Features
 
